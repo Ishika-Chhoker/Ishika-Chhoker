@@ -1,6 +1,4 @@
-# Hi there! 👋
 
-## About Me
 
 Passionate computer science engineer with a problem-solving mindset and a knack for coding. Skilled in developing innovative software solutions and staying updated with industry trends. Open to collaboration and impactful projects.
 
@@ -70,6 +68,6 @@ Passionate computer science engineer with a problem-solving mindset and a knack 
 
 
 
-🚀 Feel free to connect!
+ Feel free to connect!
 
 
