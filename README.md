@@ -1,4 +1,4 @@
-# Hi there, I'm Ishika Chhoker!
+# Hi , I'm Ishika Chhoker
 
 **`Aspiring Computer Science Engineer | Problem Solver | Coding Enthusiast`**
 
